@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\Unreal Projects\SIS457LAB0103\Intermediate\Build\Win64\UE4Editor\Development\SIS457LAB0103\Definitions.SIS457LAB0103.h
+C:\Users\ASUS\Documents\Unreal Projects\SIS457LAB0103\Source\SIS457LAB0103\SIS457LAB0103GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\ASUS\Documents\Unreal Projects\SIS457LAB0103\Intermediate\Build\Win64\UE4Editor\Inc\SIS457LAB0103\SIS457LAB0103GameMode.generated.h
+C:\Users\ASUS\Documents\Unreal Projects\SIS457LAB0103\Source\SIS457LAB0103\SIS457LAB0103PlayerController.h
+C:\Users\ASUS\Documents\Unreal Projects\SIS457LAB0103\Intermediate\Build\Win64\UE4Editor\Inc\SIS457LAB0103\SIS457LAB0103PlayerController.generated.h
+C:\Users\ASUS\Documents\Unreal Projects\SIS457LAB0103\Source\SIS457LAB0103\SIS457LAB0103Pawn.h
+C:\Users\ASUS\Documents\Unreal Projects\SIS457LAB0103\Intermediate\Build\Win64\UE4Editor\Inc\SIS457LAB0103\SIS457LAB0103Pawn.generated.h
